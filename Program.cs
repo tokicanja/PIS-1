@@ -2,5 +2,3 @@
 
 Console.WriteLine("Hello, kata !");
 
-
-Console.WriteLine("Hello, kata !");
